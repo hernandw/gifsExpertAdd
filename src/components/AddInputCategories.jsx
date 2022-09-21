@@ -21,7 +21,7 @@ const AddInputCategories = ({ onNewCategory }) => {
           placeholder="Buscar un gifs"
           value={inputValue}
         />
-        <button>Agregar</button>
+        <button>Buscar</button>
       </form>
     </>
   );
